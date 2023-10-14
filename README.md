@@ -85,7 +85,9 @@ plt.show()
 ## Output:
 
 ### Display the input Image:
-![Screenshot 2023-10-14 154815](https://github.com/JeevaGowtham-S/EROSION-AND-DILATION/assets/118042624/7f65e74f-60a8-4c8d-8b26-37bfab8ffdc0)
+![Screenshot 2023-10-14 225841](https://github.com/Mohanraj2004/EROSION-AND-DILATION/assets/132890483/a47b933f-89db-4f26-877e-9ee62bd77e00)
+
+
 
 <br>
 <br>
@@ -95,7 +97,7 @@ plt.show()
 <br>
 
 ### Display the Eroded Image:
-![Screenshot 2023-10-14 154955](https://github.com/JeevaGowtham-S/EROSION-AND-DILATION/assets/118042624/b0aaf3e0-e13b-432e-b00c-8d9e5ab17003)
+![Screenshot 2023-10-14 225936](https://github.com/Mohanraj2004/EROSION-AND-DILATION/assets/132890483/95620306-2b71-42a2-ab11-41f4969e2299)
 
 <br>
 <br>
@@ -105,9 +107,9 @@ plt.show()
 <br>
 
 ### Display the Dilated Image:
-![Screenshot 2023-10-14 155057](https://github.com/JeevaGowtham-S/EROSION-AND-DILATION/assets/118042624/f6667a10-f5ae-4e71-bed4-283810db4582)
 
 
+![Screenshot 2023-10-14 230020](https://github.com/Mohanraj2004/EROSION-AND-DILATION/assets/132890483/9b7080a8-2aba-42f6-8836-5aafd7dd3a67)
 
 <br>
 <br>
