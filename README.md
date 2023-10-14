@@ -44,7 +44,7 @@ import matplotlib.pyplot as plt
 ```
 image = np.zeros((100,500),dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(image,"JEEVAGOWTHAM S",(5,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(image,"mohan raj",(5,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(image,cmap='gray')
 plt.title('Input Text'), plt.xticks([]), plt.yticks([])
 plt.show()
